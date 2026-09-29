@@ -189,7 +189,7 @@ days:
             affiliation: "Upstream Data"
           - name: "Schnitzel"
             affiliation: "256 Foundation"
-        description: "When your heater is an internet-connected money printer, \"set and forget\" demands new rules. This panel dissects control philosophy for hashrate heating: analog reliability vs. digital optimization, KISS principles vs. grid-aware automation, and standardization (BACNet/Home Assistant) vs. custom hacks. Experts debate failsafe requirements, optimization priorities, and whether smarter control truly delivers tighter thermal performance—without sacrificing robustness."
+        description: "When your heater is an internet-connected money printer, \"set and forget\" demands new rules. This panel dissects control philosophy for hashrate heating: analog reliability vs. digital optimization, KISS principles vs. grid-aware automation, and standardization (BACnet/Home Assistant) vs. custom hacks. Experts debate failsafe requirements, optimization priorities, and whether smarter control truly delivers tighter thermal performance—without sacrificing robustness."
 
       - id: "day1-panel-chips"
         title: "Chips on the Table: Home-Mining Hardware & ASIC For All"

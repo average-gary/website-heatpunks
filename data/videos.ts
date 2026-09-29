@@ -40,7 +40,7 @@ export const summit2026Videos: Video[] = [
   {
     id: 'hps26-talk-05',
     title: 'Set & Forget: Ideal Control for Hashrate Heat',
-    description: 'Dissecting control philosophy for hashrate heating: analog reliability vs. digital optimization, KISS principles vs. grid-aware automation, standardization (BACNet/Home Assistant) vs. custom hacks, and whether smarter control truly delivers tighter thermal performance.',
+    description: 'Dissecting control philosophy for hashrate heating: analog reliability vs. digital optimization, KISS principles vs. grid-aware automation, standardization (BACnet/Home Assistant) vs. custom hacks, and whether smarter control truly delivers tighter thermal performance.',
     youtubeId: 'tIJDsZ7fzqw',
   },
   {

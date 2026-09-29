@@ -473,7 +473,7 @@ days:
             affiliation: "Hashpool"
           - name: "Schnitzel"
             affiliation: "256 Foundation"
-        description: "When your hashrate follows heating demand—not price signals—pool payout mechanics become existential. This panel dissects tradeoffs for intermittent miners: Ocean's Tides. FPPS stability vs. Stratum V2's job negotiation, custodial risk vs. e-hash tokenized flexibility, and HydraPool's open-source auditability vs. customization complexity. Learn which structures minimize \"intermittency tax,\" maximize verifiable earnings, and align with heatpunk sovereignty values—even if it costs sats."
+        description: "When your hashrate follows heating demand—not price signals—pool payout mechanics become existential. This panel dissects tradeoffs for intermittent miners: Ocean's Tides, FPPS stability vs. Stratum V2's job negotiation, custodial risk vs. e-hash tokenized flexibility, and HydraPool's open-source auditability vs. customization complexity. Learn which structures minimize \"intermittency tax,\" maximize verifiable earnings, and align with heatpunk sovereignty values—even if it costs sats."
 
       - id: "day2-panel-256-foundation"
         title: "Dismantling the Proprietary Mining Empire - This is the 256 Foundation"

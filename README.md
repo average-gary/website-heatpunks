@@ -122,7 +122,7 @@ Copy `.env.example` to `.env.local` (development) or provide these to the contai
 
 > `NEXT_PUBLIC_*` variables are read at **build time** and baked into the client bundle — set them before building, not just at runtime. This includes both Web3Forms keys.
 
-Without the two `NEXT_PUBLIC_WEB3FORMS_*_ACCESS_KEY` vars configured, the contact form and summit waitlist (respectively) will fail to submit. Without `DISCOURSE_URL`, the live forum feed on the landing page is simply omitted.
+Without the two `NEXT_PUBLIC_WEB3FORMS_*_ACCESS_KEY` vars configured, the contact form and summit waitlist (respectively) will fail to submit. `DISCOURSE_URL` defaults to `https://forum.heatpunks.org`; if the forum can't be reached, the feed shows a "temporarily unavailable" fallback.
 
 ---
 

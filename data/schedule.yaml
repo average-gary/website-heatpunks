@@ -305,7 +305,7 @@ days:
         status: "confirmed"
         speakers:
           - name: "Anna Chekhovich"
-            affiliation: "Anti Corruption Foundation"
+            affiliation: "Anti-Corruption Foundation"
         description: "Exiled Russian activist Anna Chekhovich (CFO, Anti-Corruption Foundation) reframes hashrate heating as essential human rights technology. Drawing from frontline experience with censorship and asset seizure, she reveals how residential miners—disguised as heaters—enable private, non-KYC bitcoin acquisition for at-risk populations. The talk issues a call: Build tools that turn heating bills into uncensorable economic lifelines."
 
       - id: "day2-panel-workforce"

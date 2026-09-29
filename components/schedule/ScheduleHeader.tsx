@@ -33,6 +33,9 @@ export function ScheduleHeader({ summit, days }: ScheduleHeaderProps) {
           <p className="font-mono text-xs text-[var(--muted)]">
             <span className="text-[var(--terminal-color)]">&gt;</span> February 26-28, {summit.year} • {summit.venue.name}
           </p>
+          <p className="font-mono text-xs text-[var(--muted)] mt-1">
+            [ARCHIVE] Schedule as published for the {summit.year} summit.
+          </p>
         </div>
 
         <button

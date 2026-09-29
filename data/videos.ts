@@ -112,7 +112,7 @@ export const summit2026Videos: Video[] = [
   {
     id: 'hps26-award',
     title: 'Heatpunk Innovation Award Announcement',
-    description: 'Debut of the inaugural Heatpunk Hardware Award — recognizing the most innovative hashrate heating system showcased on-site at HPS 2026. Winner selected live during proceedings.',
+    description: 'Debut of the inaugural Heatpunk Innovation Award — recognizing the most innovative hashrate heating system showcased on-site at HPS 2026. Winner selected live during proceedings.',
     youtubeId: 'dNKZhRVaXbM',
   },
   {

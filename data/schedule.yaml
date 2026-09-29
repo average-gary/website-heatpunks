@@ -420,7 +420,7 @@ days:
         description: "Walk through Exergy's real-world installation: a water-cooled Bitcoin miner heating The Space's radiant floors via a plumber-led hydronic loop. We'll dissect control gaps (no fixed outlet temps, dynamic wattage-to-heat conversion) and workshop solutions to replicate traditional boiler logic atop hashrate heating. Join hydronics experts to confront the quirks of \"smart heat\" and define next-gen control schemas."
 
       - id: "day2-hardware-award"
-        title: "Heatpunk Hardware Award Announcement"
+        title: "Heatpunk Innovation Award Announcement"
         type: "talk"
         start: "13:20"
         end: "13:25"
@@ -433,7 +433,7 @@ days:
             affiliation: "Exergy"
           - name: "Cody Harris"
             affiliation: "Citadel Construction"
-        description: "At this year's summit, we debut the inaugural Heatpunk Hardware Award—recognizing the most innovative hashrate heating system showcased on-site. The winner will be selected live during proceedings. All exhibited systems are eligible."
+        description: "At this year's summit, we debut the inaugural Heatpunk Innovation Award—recognizing the most innovative hashrate heating system showcased on-site. The winner will be selected live during proceedings. All exhibited systems are eligible."
 
       - id: "day2-panel-precision-btu"
         title: "Precision BTU: The Economics of Mining Heater Sizing & Custom Systems"

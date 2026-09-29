@@ -157,8 +157,8 @@ export const summit2025Videos: Video[] = [
   },
   {
     id: 'hps25-opening',
-    title: 'UnderMine 2025 Opening Remarks',
-    description: 'Opening remarks with Cody Harris and Tyler Stevens launching the first-ever Heatpunk Summit — then branded "UnderMine" — in Denver.',
+    title: 'Undermine 2025 Opening Remarks',
+    description: 'Opening remarks with Cody Harris and Tyler Stevens launching the first-ever Heatpunk Summit — then branded "Undermine" — in Denver.',
     youtubeId: 'UgL4H89O73c',
   },
   {

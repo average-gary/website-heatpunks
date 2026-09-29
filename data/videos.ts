@@ -117,7 +117,7 @@ export const summit2026Videos: Video[] = [
   },
   {
     id: 'hps26-workshop-01',
-    title: 'Home Assistant Deep Dive: Automating Hashrate Heat as IOT Devices',
+    title: 'Home Assistant Deep Dive: Automating Hashrate Heat as IoT Devices',
     description: 'Led by Exergy\'s Dylan, this workshop integrates miners directly into Home Assistant — building local automations triggered by thermostats, solar production, or energy prices. Zero cloud required.',
     youtubeId: 'k_x48ErmSh8',
   },

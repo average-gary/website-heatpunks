@@ -160,7 +160,7 @@ days:
         description: "Collaboratively outline industry standards with leading firm TESSERE and peers. This session tackles certification roadblocks, client education frameworks, and hybrid-system specifications surfaced in the Building With Intention panel. Outcome: A shared action plan to transform hashrate heating from prototype to approved architectural detail."
 
       - id: "day1-workshop-home-assistant"
-        title: "Home Assistant Deep Dive - Automating Hashrate Heat as IOT Devices"
+        title: "Home Assistant Deep Dive - Automating Hashrate Heat as IoT Devices"
         type: "workshop"
         start: "12:30"
         end: "13:15"

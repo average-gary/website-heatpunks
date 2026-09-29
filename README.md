@@ -4,7 +4,7 @@ The community website for the **Hashrate Heatpunks** — a community working on 
 
 Live at **[heatpunks.org](https://heatpunks.org)**.
 
-The site is the hub for the community: a landing page with a live forum feed, educational resources (books, guides, summit talk videos), the Hashrate Heatpunk Grant Program, and Heatpunk Summit event pages with full schedules.
+The site is the hub for the community: a landing page with a live forum feed, educational resources (books, guides, summit talk videos), an overview of the 256 Foundation grant program, and Heatpunk Summit event pages with full schedules.
 
 ---
 
@@ -68,7 +68,7 @@ Common edits don't require component changes:
 
 - **Summit videos** — edit `data/videos.ts`. The Summit page features the first entry and the Education page lists them.
 - **Schedule & sponsors** — edit `data/schedule.yaml` and `data/sponsors.yaml`.
-- **Site-wide links, navigation, and the grant program toggle** — edit `data/site.ts`. The grant program can be paused/reopened by flipping `grants.open` there, which gates the application form, the API endpoint, and all "apply" CTAs across the site in one place.
+- **Site-wide links and navigation** (including the 256 Foundation grants/donate URLs, `foundation.grants` / `foundation.donate`) — edit `data/site.ts`.
 
 ---
 

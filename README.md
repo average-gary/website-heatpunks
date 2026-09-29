@@ -66,7 +66,7 @@ public/         Static assets (images, downloadable resources)
 
 Common edits don't require component changes:
 
-- **Summit videos** — edit `data/videos.ts`. The Summit page features the first entry and the Education page lists them.
+- **Summit videos** — edit `data/videos.ts`. The 2026 summit archive (`/summit/2026`) features the first entry and the Education page lists them all.
 - **Schedule & sponsors** — edit `data/schedule.yaml` and `data/sponsors.yaml`.
 - **Site-wide links and navigation** (including the 256 Foundation grants/donate URLs, `foundation.grants` / `foundation.donate`) — edit `data/site.ts`.
 
